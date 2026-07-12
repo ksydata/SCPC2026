@@ -67,3 +67,6 @@ SCPC2026_Final_baseline.ipynb: 참가자용 Python 통합 실행 예시
 
 아래 코드는 일부러 약하게 작성된 starter입니다. 각 함수의 TODO 주석이 참가자가 개선할 지점입니다.
 - `plan_events[*].args`는 공개 ontology의 의미 bucket을 사용해 각 단계의 근거를 표시합니다. 특정 문자열을 외워 맞히는 것이 아니라, record/scope/policy 신호에서 필요한 근거를 구조화하는 연습으로 보세요.
+
+
+https://journalblog.tistory.com/1
