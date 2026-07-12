@@ -70,3 +70,15 @@ SCPC2026_Final_baseline.ipynb: 참가자용 Python 통합 실행 예시
 
 
 https://journalblog.tistory.com/1
+
+- 최고 점수 제출 submission.csv를 생성한 전체 Harness 코드
+- 실행 방법이 포함된 README.md
+- Public 리더보드에 제출한 submission.csv(모든 csv에 대한 코드를 제출할 필요는 없으며, 최종으로 코드와 함께 제출한 코드에 대한 csv)
+- 실행에 필요한 참가자 자체 작성 파일
+
+README.md에는 최소한 다음 내용을 포함해 주시기 바랍니다.
+- 실행 명령어
+- 필요한 파일 배치 방법
+- 사용한 Python 버전 및 의존성
+- submission.csv 재생성 방법
+- 난수나 샘플링을 사용하는 경우 seed 및 재현 조건
